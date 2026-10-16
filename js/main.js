@@ -1,0 +1,72 @@
+(function(){
+var FR={skip:"Aller au contenu",n1:"Projets",n2:"Méthode",n3:"Compétences",n4:"Équipe",n5:"Parcours",n6:"Contact",
+role:"Spécialiste Creative Performance | Stratège créative | Marketing & Growth",
+h1:"Je transforme les insights clients en contenus courts qui performent.",
+lead:"Je cherche ce que l'audience veut et ce qui la freine, j'écris les hooks, les angles et les scripts, puis je coordonne l'équipe qui tourne, monte et livre la vidéo finale.",
+c1:"Voir les projets",c2:"Télécharger le CV",
+s1:"vues en 30 jours, compte CLFC Formation",s2:"vues en 30 jours, compte Imtiyaz",s3:"vues en 30 jours, compte HSAM Academy",
+sn:"Statistiques Instagram, 16 sept. – 15 oct. Ce sont des résultats de comptes sur lesquels j'ai travaillé, pas des chiffres attribués à moi seule.",
+w:"Projets sélectionnés",ws:"Ouvrez une étude de cas pour voir mon rôle, le contexte et les preuves.",
+f0:"Tous",f1:"Vidéo courte",f2:"Marques de formation",f3:"Agence",
+k1:"Reels éducatifs pour un centre de langues et de formation.",k2:"Reel publicitaire et direction créative dans une agence de contenu.",k3:"Stratégie de contenu et partenariats avec des créateurs pour une plateforme d'apprentissage.",k4:"Formation et marketing digital pour une académie e-learning.",cs:"Ouvrir l'étude de cas",
+pr:"De l'insight à la vidéo finale",
+p1t:"Recherche",p1:"Problèmes, désirs, comportements et objections de l'audience. Veille concurrentielle et tendances.",
+p2t:"Idéation",p2:"Concepts, hooks et angles pour chaque problème de l'audience, vérifiés par rapport à l'objectif.",
+p3t:"Scripts",p3:"Structure narrative et scripts écrits pour les formats courts comme Reels et TikTok.",
+p4t:"Production",p4:"Je briefe le vidéaste, je planifie les tournages et je garde le travail aligné sur la stratégie et les délais.",
+p5t:"Montage et révisions",p5:"Je revois les montages avec le monteur et je gère les tours de révision jusqu'à ce que la vidéo corresponde au brief.",
+p6t:"Livraison et apprentissage",p6:"Livraison finale, puis lecture des statistiques pour nourrir les prochaines idées.",
+sk:"Des compétences alignées sur le poste",sk1:"Développement de concepts créatifs et idéation",sk2:"Hooks, angles, storytelling et scripts",sk3:"Vidéo orientée performance pour TikTok et Instagram Reels",sk4:"Problèmes, désirs, comportements et objections des clients",sk5:"Stratégie créative et planification de contenu",sk6:"Coordination de la production créative de bout en bout",sk7:"Analyse de performance : vues, portée, rétention, engagement",sk8:"Outils : Canva, CapCut, Meta Business, Google Analytics, Notion, Microsoft Office",
+lg:"Langues : arabe (natif), français (courant), turc (courant), anglais (avancé).",
+t:"Je dirige une équipe créative d'environ cinq personnes",ts:"Je coordonne une équipe qui comprend un vidéaste et un monteur, de la première idée à la livraison finale.",
+t1:"Ce que je fais moi-même",t1a:"Rechercher des idées et développer des concepts créatifs",t1b:"Écrire hooks, angles, histoires et scripts",t1c:"Planifier le contenu selon les besoins et les comportements de l'audience",t1d:"Vérifier les livrables par rapport à la stratégie",t1e:"Coordonner avec les clients et les équipes internes",
+t2:"Ce que je coordonne",t2a:"Le tournage, mené par le vidéaste",t2b:"Le montage vidéo, mené par le monteur",t2c:"Les workflows, délais et révisions",t2d:"Les livrables finaux",
+ex:"Expérience",e1d:"Depuis 05/2026",e2d:"Depuis 12/2025",e3d:"Depuis 09/2025",e4d:"Depuis 09/2025",e5d:"Depuis 09/2024",
+e1:"Marketing & Sales Manager : stratégie marketing et commerciale, négociation avec les clients, direction de projets et coordination des départements.",
+e2:"Marketing & Customer Relations Manager : stratégie marketing et de contenu, coordination des influenceurs et partenaires, community management et supervision du call center.",
+e3:"Marketing Manager & Content Creator : stratégie marketing, plan de contenu, campagnes, veille concurrentielle, coordination de l'équipe.",
+e4:"Formatrice en marketing digital : conception et animation de formations et de contenus interactifs.",
+e5:"Manager : formation en marketing digital et e-commerce, encadrement d'étudiants et de professionnels.",e6:"Formatrice en marketing digital.",
+ed:"Formation",ed1:"Licence en Mathématiques, Recherche Opérationnelle",ed2:"Université Saad Dahleb de Blida, 2023",
+ct:"Parlons-en",cts:"Ouverte au poste de Creative Performance Specialist et aux projets de stratégie créative."};
+var P={
+clfc:{en:{t:"CLFC Formation",tag:"Marketing Manager & Content Creator, since 09/2025",ov:"A language and professional-training center that publishes short educational reels on topics such as accounting, office tools, pharmacy software and German.",au:"Learners and job seekers looking for practical professional skills.",ro:"Marketing strategy, content plan, marketing campaigns, market and competitor monitoring, and coordination of the marketing team.",ev:["Account: 71.7K followers, 6,217,013 views over 30 days (+45.1% vs the previous period), +5,076 net followers.","Top reels: 1.8M, 1.5M, 735K and 727K views.","The pharmacy-software reel reached 1,519,015 views with 2.2K likes, 109 comments and 53 shares."],nt:"That reel averaged 5 seconds of watch time and 14 new followers. I read it as proof of reach, not of conversion. This is the kind of reading I use to choose the next hook."},
+fr:{t:"CLFC Formation",tag:"Marketing Manager & Content Creator, depuis 09/2025",ov:"Un centre de langues et de formation professionnelle qui publie des reels éducatifs courts sur la comptabilité, la bureautique, les logiciels de pharmacie ou l'allemand.",au:"Apprenants et demandeurs d'emploi qui cherchent des compétences professionnelles pratiques.",ro:"Stratégie marketing, plan de contenu, campagnes marketing, veille marché et concurrence, et coordination de l'équipe marketing.",ev:["Compte : 71,7 K abonnés, 6 217 013 vues en 30 jours (+45,1 % par rapport à la période précédente), +5 076 abonnés nets.","Reels les plus vus : 1,8 M, 1,5 M, 735 K et 727 K de vues.","Le reel sur le logiciel de pharmacie a atteint 1 519 015 vues, avec 2,2 K likes, 109 commentaires et 53 partages."],nt:"Ce reel a eu 5 secondes de durée de vue moyenne et 14 nouveaux abonnés. Je le lis comme une preuve de portée, pas de conversion. C'est ce type de lecture qui guide mon choix du prochain hook."},
+im:[["clfc-reels-grid","Reels grid with view counts","Grille de reels avec vues"],["clfc-dashboard","30-day account dashboard","Tableau de bord du compte, 30 jours"],["clfc-chiffa-reel-stats","Pharmacy-software reel insights","Statistiques du reel logiciel de pharmacie"]]},
+ram:{en:{t:"RAM Production",tag:"Marketing & Sales Manager, since 05/2026",ov:"A creative agency specialized in short-form content, photography, filmmaking and design.",au:"Brands and businesses that need short-form video and social content.",ro:"Marketing and sales strategy, sales negotiation from prospecting to follow-up, project leadership, and coordination of the agency's departments and teams.",ev:["Account: 118K followers (verified), 214K views over 30 days.","Ad reel for a TV channel: 72,776 views, 22,227 accounts reached, 532 new followers, 28 s average watch time, 649 shares and 307 saves."],nt:"These are the agency's reel and account results. They show the performance of agency content I help lead, not figures produced by me alone."},
+fr:{t:"RAM Production",tag:"Marketing & Sales Manager, depuis 05/2026",ov:"Une agence créative spécialisée dans le contenu court, la photographie, la vidéo et le design.",au:"Marques et entreprises qui ont besoin de vidéos courtes et de contenu pour les réseaux sociaux.",ro:"Stratégie marketing et commerciale, négociation de la prospection au suivi, direction de projets, et coordination des départements et des équipes de l'agence.",ev:["Compte : 118 K abonnés (certifié), 214 K vues sur 30 jours.","Reel publicitaire pour une chaîne TV : 72 776 vues, 22 227 comptes touchés, 532 nouveaux abonnés, 28 s de durée de vue moyenne, 649 partages et 307 enregistrements."],nt:"Ce sont les résultats du reel et du compte de l'agence. Ils montrent la performance d'un contenu d'agence que j'aide à diriger, pas des chiffres produits par moi seule."},
+im:[["ram-samira-reel-stats","Ad reel insights","Statistiques du reel publicitaire"]]},
+imt:{en:{t:"Imtiyaz e-learning",tag:"Marketing & Customer Relations Manager, since 12/2025",ov:"A digital learning platform with live courses, recorded lessons and summaries, including content for BAC 2027 students.",au:"Secondary-school students and their families.",ro:"Marketing and content strategy, coordination of influencers and partners for campaigns, supervision of community management and call center teams, and follow-up of user issues to improve the experience.",ev:["Account: 44.4K followers.","Last 30 days: 2.0M views and 7.0K new followers.","Best post: 2,811 accounts interacted with it, more than with the other posts."],nt:""},
+fr:{t:"Imtiyaz e-learning",tag:"Marketing & Customer Relations Manager, depuis 12/2025",ov:"Une plateforme d'apprentissage numérique avec des cours en direct, des leçons enregistrées et des résumés, dont du contenu pour les élèves du BAC 2027.",au:"Lycéens et leurs familles.",ro:"Stratégie marketing et de contenu, coordination des influenceurs et partenaires pour les campagnes, supervision des équipes de community management et du call center, et suivi des problèmes des utilisateurs pour améliorer l'expérience.",ev:["Compte : 44,4 K abonnés.","Sur 30 jours : 2,0 M de vues et 7,0 K nouveaux abonnés.","Meilleure publication : 2 811 comptes ont interagi avec elle, plus qu'avec les autres publications."],nt:""},
+im:[["imtiyaz-dashboard","30-day account dashboard","Tableau de bord du compte, 30 jours"]]},
+hsam:{en:{t:"HSAM Academy",tag:"Manager, since 09/2024",ov:"An e-learning academy offering courses in languages, medical training, design and programming, with offers presented as course packs.",au:"Learners looking for online training.",ro:"Training in digital marketing and e-commerce, supervision of students and professionals, and creation of tailored educational material.",ev:["Account: 39.4K followers.","Last 30 days: 1.1M views, 2.8K new followers, 80 pieces of content shared.","2.2K total message contacts in the same period."],nt:"Message contacts are conversations started with the account. They are not counted here as leads."},
+fr:{t:"HSAM Academy",tag:"Manager, depuis 09/2024",ov:"Une académie e-learning qui propose des formations en langues, en médical, en design et en programmation, avec des offres présentées sous forme de packs.",au:"Apprenants qui cherchent une formation en ligne.",ro:"Formation en marketing digital et e-commerce, encadrement d'étudiants et de professionnels, et création de supports pédagogiques sur mesure.",ev:["Compte : 39,4 K abonnés.","Sur 30 jours : 1,1 M de vues, 2,8 K nouveaux abonnés, 80 contenus partagés.","2,2 K contacts par message sur la même période."],nt:"Les contacts par message sont des conversations démarrées avec le compte. Ils ne sont pas comptés ici comme des leads."},
+im:[["hsam-dashboard","30-day account dashboard","Tableau de bord du compte, 30 jours"],["hsam-profile","Account profile","Profil du compte"]]}};
+var L=localStorage,lang="en",cur=null,d=document,$=function(s,r){return[].slice.call((r||d).querySelectorAll(s))};
+$("[data-i18n]").forEach(function(e){e.dataset.en=e.innerHTML});
+$("[data-fr-alt]").forEach(function(e){e.dataset.enAlt=e.alt});
+var modal=d.getElementById("modal"),mb=d.getElementById("mb"),H={en:["Overview","Audience","My role","Evidence (account-level)","Images"],fr:["Aperçu","Audience","Mon rôle","Preuves (niveau compte)","Images"]};
+function render(){if(!cur)return;var p=P[cur],c=p[lang],h=H[lang],i=lang==="fr"?2:1;
+mb.innerHTML='<h3 id="mt">'+c.t+'</h3><p>'+c.tag+'</p><h4>'+h[0]+'</h4><p>'+c.ov+'</p><h4>'+h[1]+'</h4><p>'+c.au+'</p><h4>'+h[2]+'</h4><p>'+c.ro+'</p><h4>'+h[3]+'</h4><ul>'+c.ev.map(function(x){return"<li>"+x+"</li>"}).join("")+'</ul>'+(c.nt?'<p class="note">'+c.nt+'</p>':'')+'<h4>'+h[4]+'</h4><div class="shots">'+p.im.map(function(m){return'<figure><img loading="lazy" src="assets/images/'+m[0]+'.jpg" alt="'+m[i]+'"><figcaption>'+m[i]+'</figcaption></figure>'}).join("")+'</div>'}
+function setLang(l){lang=l;d.documentElement.lang=l;
+$("[data-i18n]").forEach(function(e){var k=e.dataset.i18n;e.innerHTML=l==="fr"&&FR[k]?FR[k]:e.dataset.en});
+$("[data-fr-alt]").forEach(function(e){e.alt=l==="fr"?e.dataset.frAlt:e.dataset.enAlt});
+$("[data-fr-aria]").forEach(function(e){e.setAttribute("aria-label",l==="fr"?e.dataset.frAria:"Close")});
+$(".lang button").forEach(function(b){b.setAttribute("aria-pressed",b.dataset.lang===l)});
+d.title=l==="fr"?"Douaa Boudjelti | Spécialiste Creative Performance":"Douaa Boudjelti | Creative Performance Specialist";
+try{L.setItem("lang",l)}catch(e){}render()}
+$(".lang button").forEach(function(b){b.onclick=function(){setLang(b.dataset.lang)}});
+try{var s=L.getItem("lang");if(s==="fr")setLang("fr")}catch(e){}
+$(".more").forEach(function(b){b.onclick=function(){cur=b.dataset.p;render();modal.showModal()}});
+modal.querySelector(".x").onclick=function(){modal.close()};
+modal.addEventListener("click",function(e){if(e.target===modal)modal.close()});
+$(".filters button").forEach(function(b){b.onclick=function(){$(".filters button").forEach(function(x){x.classList.toggle("on",x===b)});$(".card").forEach(function(c){c.hidden=b.dataset.f!=="all"&&c.dataset.cat.split(" ").indexOf(b.dataset.f)<0})}});
+var bg=d.querySelector(".burger"),nav=d.getElementById("nav");
+bg.onclick=function(){var o=nav.classList.toggle("open");bg.setAttribute("aria-expanded",o)};
+$("nav a").forEach(function(a){a.onclick=function(){nav.classList.remove("open");bg.setAttribute("aria-expanded","false")}});
+if("IntersectionObserver" in window){
+var ro=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");ro.unobserve(e.target)}})},{threshold:.1});
+$(".reveal").forEach(function(e){ro.observe(e)});
+var so=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting)$("nav a").forEach(function(a){a.classList.toggle("on",a.getAttribute("href")==="#"+e.target.id)})})},{rootMargin:"-45% 0px -50% 0px"});
+$("main section[id]").forEach(function(e){so.observe(e)})}else{$(".reveal").forEach(function(e){e.classList.add("in")})}
+})();
